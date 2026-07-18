@@ -1,0 +1,10 @@
+# Python packages required for this project
+# Install with: pip install -r requirements.txt
+
+# CustomTkinter - Modern-looking GUI widgets (dark mode, rounded buttons)
+# https://github.com/TomSchimansky/CustomTkinter
+customtkinter>=5.0.0
+
+# MySQL Connector - Lets Python communicate with MySQL Server
+# https://dev.mysql.com/doc/connector-python/en/
+mysql-connector-python>=8.0.0
